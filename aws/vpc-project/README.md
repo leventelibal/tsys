@@ -2,9 +2,8 @@
 #fuchicorp/docs
 
 ### Author
-Created by @fsadykov
-Farkhod Sadykov
-fsadykov.com
+Created by @leventelibal
+Levent Elibal
 
 ## Before you begin
 1. Make sure you have terraform `11.14`
@@ -15,7 +14,7 @@ fsadykov.com
 ## Cloning the source code
 To be able to deploy the VPC infrastructure. You will need to follow the below steps.
 ```
-git clone git@github.com:fuchicorp/cluster-infrastructure.git
+git clone git@github.com:leventelibal/tsys.git
 cd aws/vpc-project/deployments/terraform
 ```
 
